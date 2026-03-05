@@ -306,7 +306,25 @@ a:hover{
 }
 
 /*---SECTION 6---*/
-
+.section6{
+   margin-top: 60px;
+   background-color: #f4f2f1;
+}
+.footer{
+    padding-top:40px;
+    display: flex;
+    gap: 100px;
+    padding-left: 50px;
+}
+.reseau img{
+    padding-top: 10px;
+    padding-left: 10px;
+   
+}
+.lien ul li{
+    list-style: none;
+    padding-top: 10px;
+}
 
 
 
