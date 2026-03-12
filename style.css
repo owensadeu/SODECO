@@ -133,9 +133,6 @@ a:hover{
 .log:hover{
     color: #FDD963;
 }
-.sodeco{
-    font-family: ;
-}
 .rol{
     padding-left: 0px;
     padding-bottom: 50px;
@@ -211,7 +208,6 @@ a:hover{
 .pourquoi{
     text-align: center;
     font-size:70px;
-    font-family: ; 
     color:#4E4842 ;
     padding: 10px 0px;
 }
@@ -318,6 +314,7 @@ a:hover{
     padding-top:40px;
     display: flex;
     justify-content: space-around;
+    padding-bottom: 20px;
 }
 .reseau img{
     padding-top: 10px;
@@ -354,6 +351,9 @@ a:hover{
 }
 .ri-phone-fill{
     color: #FDD963;
+}
+.fin{
+    text-align: center;
 }
 
 
