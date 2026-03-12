@@ -67,9 +67,6 @@ a:hover{
     font-size: 70px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-.EX {
-    margin-left: 45px;
-}
 .description {
     font-size: 30px;
     margin-top:10px;
@@ -79,7 +76,7 @@ a:hover{
     display: flex;
 }
 .img{
-    width: 500px;
+    width: 510px;
     height: 270px;
     margin-right:20px;
 }
@@ -280,6 +277,13 @@ a:hover{
     padding: 20px 5px;
     border-radius: 10px;
 }
+.email a{
+    text-decoration: none;
+    color: black;
+}
+.email a:hover {
+    color: #FDD963;
+}
 .ri-mail-line {
     background-color:#FDD963;
     border-radius: 50%;
@@ -313,8 +317,7 @@ a:hover{
 .footer{
     padding-top:40px;
     display: flex;
-    gap: 100px;
-    padding-left: 50px;
+    justify-content: space-around;
 }
 .reseau img{
     padding-top: 10px;
@@ -325,6 +328,32 @@ a:hover{
     list-style: none;
     padding-top: 10px;
 }
-
+.services_again ul li{
+    list-style: none;
+    padding-top: 10px;
+}
+.services_again a {
+    text-decoration: none;
+    color: black;
+}
+.contact_us p{
+    padding-top:10px;
+}
+.contact_us p a {
+    text-decoration: none;
+    color: black;
+}
+.contact_us p a:hover {
+    color: #FDD963;
+}
+.ri-map-pin-fill{
+    color: #FDD963;
+}
+.ri-mail-fill{
+    color: #FDD963;
+}
+.ri-phone-fill{
+    color: #FDD963;
+}
 
 
